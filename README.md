@@ -52,3 +52,16 @@ To see the internal nodes names use
 Then use thirdkind to recreate the genreconciliation with species tree reconciliation
 ``thirdkind -Iie -D 40 -f ~/labs/lab06-$MYGIT/globins/globins.homologs.al.mid.treefile.reconciled.xml -o  ~/labs/lab06-$MYGIT/globins/globins.homologs.al.mid.treefile.reconciled.svg``
 
+Domain Identification 
+Using raw unaligned sequence remove stop codon 
+``sed 's/*//' ~/labs/lab04-$MYGIT/personal/personal.homologs.fas > ~/labs/lab08-$MYGIT/personal/personal.homologs.fas``
+
+Download pfam database
+``wget -O ~/data/Pfam_LE.tar.gz ftp://ftp.ncbi.nih.gov/pub/mmdb/cdd/little_endian/Pfam_LE.tar.gz && tar xfvz ~/data/Pfam_LE.tar.gz  -C ~/data``
+
+run rps blast
+``rpsblast -query ~/labs/lab08-$MYGIT/personal/personal.homologs.fas -db ~/data/Pfam -out ~/labs/lab08-$MYGIT/personal/personal.rps-blast.out  -outfmt "6 qseqid qlen qstart qend evalue stitle" -evalue .0000000001``
+
+plot pfam domain predicitions from rps-blast by using 
+``sudo /usr/local/bin/Rscript  --vanilla ~/labs/lab08-$MYGIT/plotTreeAndDomains.r ~/labs/lab08-$MYGIT/personal/personal.homologs.al.mid.treefile ~/labs/lab08-$MYGIT/personal/personal.rps-blast.out ~/labs/lab08-$MYGIT/personal/personal.tree.rps.pdf``
+

@@ -1,0 +1,851 @@
+<svg height="2865" viewBox="-30 52.5 2474 2985" width="2140" xmlns="http://www.w3.org/2000/svg">
+<style>
+.species { font: italic ; font-size: 40px; fill: orange; } .gene_0 { font-size: 10px; fill:rgb(67, 32, 181); } 
+</style>
+<g transform="translate(  -30 2887.5) rotate(-90 0 0 ) ">
+<text class="species" transform="rotate(90 1252.0752,120)" x="1267.0752" y="140">
+Deuterostomia
+</text>
+<path d="M60,235.5 L60,67.5 L1219.0752,67.5 M120,235.5 L120,172.5 L1252.0752,172.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 90,262.5)" x="105" y="282.5">
+n251
+</text>
+<path d="M-30,1330.5 L-30,232.5 L57,232.5 M30,1330.5 L30,292.5 L90,292.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M-30,1330.5 L-30,1462.5 L30,1462.5 L30,1330.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 0,1357.5)" x="-15" y="1317.5">
+S.purpuratus
+</text>
+<path d="M210,1330.5 L210,232.5 L123,232.5 M150,1330.5 L150,292.5 L90,292.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M150,1330.5 L150,1462.5 L210,1462.5 L210,1330.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 180,1357.5)" x="165" y="1317.5">
+S.kowalevskii
+</text>
+<path d="M2444.1504,235.5 L2444.1504,67.5 L1285.0752,67.5 M2384.1504,235.5 L2384.1504,172.5 L1252.0752,172.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 2414.1504,262.5)" x="2429.1504" y="282.5">
+Chordata
+</text>
+<path d="M2120.8008,355.5 L2120.8008,232.5 L2381.1504,232.5 M2150.8008,355.5 L2150.8008,292.5 L2414.1504,292.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 2135.8008,367.5)" x="2150.8008" y="387.5">
+n282
+</text>
+<path d="M1669.1016,445.5 L1669.1016,352.5 L2117.8008,352.5 M1699.1016,445.5 L1699.1016,382.5 L2135.8008,382.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1684.1016,457.5)" x="1699.1016" y="477.5">
+Vertebrata
+</text>
+<path d="M863.2031,535.5 L863.2031,442.5 L1666.1016,442.5 M908.2031,535.5 L908.2031,472.5 L1684.1016,472.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 885.7031,562.5)" x="900.7031" y="582.5">
+Gnathostomata
+</text>
+<path d="M337.5,655.5 L337.5,532.5 L860.2031,532.5 M382.5,655.5 L382.5,592.5 L885.7031,592.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 360,675)" x="375" y="695">
+Chondrichthyes
+</text>
+<path d="M285,1345.5 L285,652.5 L334.5,652.5 M315,1345.5 L315,697.5 L360,697.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M285,1345.5 L285,1462.5 L315,1462.5 L315,1345.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 300,1357.5)" x="285" y="1332.5">
+C.carcharias
+</text>
+<path d="M435,1345.5 L435,652.5 L385.5,652.5 M405,1345.5 L405,697.5 L360,697.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M405,1345.5 L405,1462.5 L435,1462.5 L435,1345.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 420,1357.5)" x="405" y="1332.5">
+S.canicula
+</text>
+<path d="M1433.9063,655.5 L1433.9063,532.5 L911.2031,532.5 M1388.9063,655.5 L1388.9063,592.5 L885.7031,592.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1411.4063,675)" x="1426.4063" y="695">
+Euteleostomi
+</text>
+<path d="M753.75,760.5 L753.75,652.5 L1385.9063,652.5 M798.75,760.5 L798.75,697.5 L1411.4063,697.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 776.25,780)" x="791.25" y="800">
+Actinopterygii
+</text>
+<path d="M600,865.5 L600,757.5 L750.75,757.5 M645,865.5 L645,802.5 L776.25,802.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 622.5,892.5)" x="637.5" y="912.5">
+n257
+</text>
+<path d="M502.5,1323 L502.5,862.5 L597,862.5 M562.5,1323 L562.5,922.5 L622.5,922.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M502.5,1323 L502.5,1462.5 L562.5,1462.5 L562.5,1323" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 532.5,1357.5)" x="517.5" y="1317.5">
+C.carpio
+</text>
+<path d="M735,1338 L735,862.5 L648,862.5 M690,1338 L690,922.5 L622.5,922.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M690,1338 L690,1462.5 L735,1462.5 L735,1338" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 712.5,1357.5)" x="697.5" y="1325">
+D.rerio
+</text>
+<path d="M945,880.5 L945,757.5 L801.75,757.5 M915,880.5 L915,802.5 L776.25,802.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 930,892.5)" x="945" y="912.5">
+n260
+</text>
+<path d="M810,1315.5 L810,877.5 L912,877.5 M870,1315.5 L870,907.5 L930,907.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M810,1315.5 L810,1462.5 L870,1462.5 L870,1315.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 840,1357.5)" x="825" y="1317.5">
+S.salar
+</text>
+<path d="M1035,1345.5 L1035,877.5 L948,877.5 M1005,1345.5 L1005,907.5 L930,907.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M1005,1345.5 L1005,1462.5 L1035,1462.5 L1035,1345.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1020,1357.5)" x="1005" y="1332.5">
+G.aculeatus
+</text>
+<path d="M2069.0625,760.5 L2069.0625,652.5 L1436.9063,652.5 M2024.0625,760.5 L2024.0625,697.5 L1411.4063,697.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 2046.5625,780)" x="2061.5625" y="800">
+Tetrapoda
+</text>
+<path d="M1730.625,865.5 L1730.625,757.5 L2021.0625,757.5 M1760.625,865.5 L1760.625,802.5 L2046.5625,802.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1745.625,877.5)" x="1760.625" y="897.5">
+Amniota
+</text>
+<path d="M1395,955.5 L1395,862.5 L1727.625,862.5 M1455,955.5 L1455,892.5 L1745.625,892.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1425,997.5)" x="1440" y="1017.5">
+Mammalia
+</text>
+<path d="M1200,1105.5 L1200,952.5 L1392,952.5 M1260,1105.5 L1260,1042.5 L1425,1042.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1230,1132.5)" x="1245" y="1152.5">
+n264
+</text>
+<path d="M1110,1330.5 L1110,1102.5 L1197,1102.5 M1170,1330.5 L1170,1162.5 L1230,1162.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M1110,1330.5 L1110,1462.5 L1170,1462.5 L1170,1330.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1140,1357.5)" x="1125" y="1317.5">
+F.catus
+</text>
+<path d="M1350,1330.5 L1350,1102.5 L1263,1102.5 M1290,1330.5 L1290,1162.5 L1230,1162.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M1290,1330.5 L1290,1462.5 L1350,1462.5 L1350,1330.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1320,1357.5)" x="1305" y="1317.5">
+E.caballus
+</text>
+<path d="M1687.5,1255.5 L1687.5,952.5 L1458,952.5 M1552.5,1255.5 L1552.5,1042.5 L1425,1042.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M1552.5,1255.5 L1552.5,1462.5 L1687.5,1462.5 L1687.5,1255.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1620,1357.5)" x="1605" y="1280">
+H.sapiens
+</text>
+<path d="M2088.75,970.5 L2088.75,862.5 L1763.625,862.5 M2043.75,970.5 L2043.75,892.5 L1745.625,892.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 2066.25,997.5)" x="2081.25" y="1017.5">
+Sauropsida
+</text>
+<path d="M1935,1090.5 L1935,967.5 L2040.75,967.5 M1980,1090.5 L1980,1027.5 L2066.25,1027.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1957.5,1110)" x="1972.5" y="1130">
+n271
+</text>
+<path d="M1845,1195.5 L1845,1087.5 L1932,1087.5 M1890,1195.5 L1890,1132.5 L1957.5,1132.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1867.5,1215)" x="1882.5" y="1235">
+n269
+</text>
+<path d="M1792.5,1345.5 L1792.5,1192.5 L1842,1192.5 M1822.5,1345.5 L1822.5,1237.5 L1867.5,1237.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M1792.5,1345.5 L1792.5,1462.5 L1822.5,1462.5 L1822.5,1345.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1807.5,1357.5)" x="1792.5" y="1332.5">
+G.gangeticus
+</text>
+<path d="M1942.5,1345.5 L1942.5,1192.5 L1893,1192.5 M1912.5,1345.5 L1912.5,1237.5 L1867.5,1237.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M1912.5,1345.5 L1912.5,1462.5 L1942.5,1462.5 L1942.5,1345.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 1927.5,1357.5)" x="1912.5" y="1332.5">
+G.gallus
+</text>
+<path d="M2070,1338 L2070,1087.5 L1983,1087.5 M2025,1338 L2025,1132.5 L1957.5,1132.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M2025,1338 L2025,1462.5 L2070,1462.5 L2070,1338" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 2047.5,1357.5)" x="2032.5" y="1325">
+C.mydas
+</text>
+<path d="M2197.5,1338 L2197.5,967.5 L2091.75,967.5 M2152.5,1338 L2152.5,1027.5 L2066.25,1027.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M2152.5,1338 L2152.5,1462.5 L2197.5,1462.5 L2197.5,1338" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 2175,1357.5)" x="2160" y="1325">
+S.townsendi
+</text>
+<path d="M2377.5,1315.5 L2377.5,757.5 L2072.0625,757.5 M2317.5,1315.5 L2317.5,802.5 L2046.5625,802.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M2317.5,1315.5 L2317.5,1462.5 L2377.5,1462.5 L2377.5,1315.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 2347.5,1357.5)" x="2332.5" y="1317.5">
+X.laevis
+</text>
+<path d="M2497.5,1345.5 L2497.5,442.5 L1702.1016,442.5 M2467.5,1345.5 L2467.5,472.5 L1684.1016,472.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M2467.5,1345.5 L2467.5,1462.5 L2497.5,1462.5 L2497.5,1345.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 2482.5,1357.5)" x="2467.5" y="1332.5">
+P.marinus
+</text>
+<path d="M2602.5,1345.5 L2602.5,352.5 L2153.8008,352.5 M2572.5,1345.5 L2572.5,382.5 L2135.8008,382.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M2572.5,1345.5 L2572.5,1462.5 L2602.5,1462.5 L2602.5,1345.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 2587.5,1357.5)" x="2572.5" y="1332.5">
+O.dioica
+</text>
+<path d="M2707.5,1345.5 L2707.5,232.5 L2447.1504,232.5 M2677.5,1345.5 L2677.5,292.5 L2414.1504,292.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<path d="M2677.5,1345.5 L2677.5,1462.5 L2707.5,1462.5 L2707.5,1345.5" fill="none" opacity="0.9" stroke="pink" stroke-width="6"/>
+<text class="species" transform="rotate(90 2692.5,1357.5)" x="2677.5" y="1332.5">
+B.belcheri
+</text>
+<text class="species" transform="rotate(90 2767.5,1357.5)" x="2752.5" y="1340">
+FREE_LIVING
+</text>
+<path d="M1229.5752,69 l-6,-6 l12,0 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<path d="M1226.5752,72 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1229.5752,75)" x="1239.5752" y="75">
+n161
+</text>
+<path d="M1229.5752,90 L1229.5752,75 L1229.5752,75" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1226.5752,87 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1229.5752,90)" x="1239.5752" y="90">
+100
+</text>
+<path d="M1229.5752,105 L1229.5752,90 L1229.5752,90" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1229.5752" cy="105" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1229.5752,105)" x="1239.5752" y="105">
+84
+</text>
+<path d="M2436.6504,240 L2436.6504,105 L1229.5752,105" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="2436.6504" cy="240" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 2436.6504,240)" x="2446.6504" y="240">
+85
+</text>
+<path d="M2128.3008,360 L2128.3008,240 L2436.6504,240" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="2128.3008" cy="360" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 2128.3008,360)" x="2138.3008" y="360">
+r107
+</text>
+<path d="M1676.6016,450 L1676.6016,360 L2128.3008,360" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1676.6016" cy="450" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1676.6016,450)" x="1686.6016" y="450">
+95
+</text>
+<path d="M870.7031,540 L870.7031,450 L1676.6016,450" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M867.7031,537 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 870.7031,540)" x="880.7031" y="540">
+62
+</text>
+<path d="M870.7031,555 L870.7031,540 L870.7031,540" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="870.7031" cy="555" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 870.7031,555)" x="880.7031" y="555">
+44
+</text>
+<path d="M1426.4063,660 L1426.4063,555 L870.7031,555" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1426.4063" cy="660" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1426.4063,660)" x="1436.4063" y="660">
+r97
+</text>
+<path d="M2061.5625,765 L2061.5625,660 L1426.4063,660" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="2061.5625" cy="765" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 2061.5625,765)" x="2071.5625" y="765">
+96
+</text>
+<path d="M1738.125,870 L1738.125,765 L2061.5625,765" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1738.125" cy="870" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1738.125,870)" x="1748.125" y="870">
+97
+</text>
+<path d="M2081.25,975 L2081.25,870 L1738.125,870" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="2081.25" cy="975" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 2081.25,975)" x="2091.25" y="975">
+96
+</text>
+<path d="M1942.5,1095 L1942.5,975 L2081.25,975" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1942.5" cy="1095" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1942.5,1095)" x="1952.5" y="1095">
+r89
+</text>
+<path d="M2062.5,1462.5 L2062.5,1095 L1942.5,1095" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2062,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 2057.5,1477.5)" x="2057.5" y="1477.5">
+C.mydas_SLC39A7_zinc_transporter_SLC39A7_isoform_X1
+</text>
+<path d="M1852.5,1200 L1852.5,1095 L1942.5,1095" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1852.5,1196 l0,8 M1848.5,1200 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 1852.5 1200)"/>
+<text class="gene_0" transform="rotate(90 1852.5,1200)" x="1862.5" y="1200">
+n269*LOST
+</text>
+<path d="M2190,1462.5 L2190,975 L2081.25,975" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2189.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 2185,1477.5)" x="2185" y="1477.5">
+S.townsendi_SLC39A7_zinc_transporter_SLC39A7
+</text>
+<path d="M1402.5,960 L1402.5,870 L1738.125,870" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1399.5,957 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1402.5,960)" x="1412.5" y="960">
+100
+</text>
+<path d="M1402.5,975 L1402.5,960 L1402.5,960" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1402.5" cy="975" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1402.5,975)" x="1412.5" y="975">
+90
+</text>
+<path d="M1605,1260 L1605,975 L1402.5,975" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1602,1257 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1605,1260)" x="1615" y="1260">
+100
+</text>
+<path d="M1620,1275 L1620,1260 L1605,1260" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1617,1272 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1620,1275)" x="1630" y="1275">
+n86
+</text>
+<path d="M1635,1290 L1635,1275 L1620,1275" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1632,1287 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1635,1290)" x="1645" y="1290">
+n84
+</text>
+<path d="M1650,1305 L1650,1290 L1635,1290" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1647,1302 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1650,1305)" x="1660" y="1305">
+n82
+</text>
+<path d="M1665,1320 L1665,1305 L1650,1305" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1662,1317 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1665,1320)" x="1675" y="1320">
+n80
+</text>
+<path d="M1680,1462.5 L1680,1320 L1665,1320" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1679.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1675,1477.5)" x="1675" y="1477.5">
+H.sapiens_SLC39A7_zinc_transporter_SLC39A7_isoform_1_precursor
+</text>
+<path d="M1665,1462.5 L1665,1320 L1665,1320" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1664.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1660,1477.5)" x="1660" y="1477.5">
+H.sapiens_SLC39A7_zinc_transporter_SLC39A7_isoform_1_precursor_dupelabel1
+</text>
+<path d="M1650,1462.5 L1650,1305 L1650,1305" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1649.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1645,1477.5)" x="1645" y="1477.5">
+H.sapiens_SLC39A7_zinc_transporter_SLC39A7_isoform_1_precursor_dupelabel4
+</text>
+<path d="M1635,1462.5 L1635,1290 L1635,1290" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1634.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1630,1477.5)" x="1630" y="1477.5">
+H.sapiens_SLC39A7_zinc_transporter_SLC39A7_isoform_1_precursor_dupelabel2
+</text>
+<path d="M1620,1462.5 L1620,1275 L1620,1275" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1619.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1615,1477.5)" x="1615" y="1477.5">
+H.sapiens_SLC39A7_zinc_transporter_SLC39A7_isoform_1_precursor_dupelabel3
+</text>
+<path d="M1605,1462.5 L1605,1260 L1605,1260" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1604.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1600,1477.5)" x="1600" y="1477.5">
+H.sapiens_SLC39A7_zinc_transporter_SLC39A7_isoform_1_precursor_dupelabel5
+</text>
+<path d="M1207.5,1110 L1207.5,975 L1402.5,975" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1207.5" cy="1110" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1207.5,1110)" x="1217.5" y="1110">
+r91
+</text>
+<path d="M1117.5,1462.5 L1117.5,1110 L1207.5,1110" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1117,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1112.5,1477.5)" x="1112.5" y="1477.5">
+F.catus_SLC39A7_zinc_transporter_SLC39A7_isoform_X1
+</text>
+<path d="M1342.5,1335 L1342.5,1110 L1207.5,1110" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1342.5,1331 l0,8 M1338.5,1335 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 1342.5 1335)"/>
+<text class="gene_0" transform="rotate(90 1342.5,1335)" x="1352.5" y="1335">
+E.caballus*LOST
+</text>
+<path d="M1417.5,990 L1417.5,960 L1402.5,960" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1417.5" cy="990" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1417.5,990)" x="1427.5" y="990">
+r95
+</text>
+<path d="M1222.5,1125 L1222.5,990 L1417.5,990" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1222.5" cy="1125" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1222.5,1125)" x="1232.5" y="1125">
+r93
+</text>
+<path d="M1327.5,1462.5 L1327.5,1125 L1222.5,1125" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1327,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1322.5,1477.5)" x="1322.5" y="1477.5">
+E.caballus_SLC39A7_zinc_transporter_SLC39A7_isoform_X1
+</text>
+<path d="M1132.5,1350 L1132.5,1125 L1222.5,1125" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1132.5,1346 l0,8 M1128.5,1350 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 1132.5 1350)"/>
+<text class="gene_0" transform="rotate(90 1132.5,1350)" x="1142.5" y="1350">
+F.catus*LOST
+</text>
+<path d="M1590,1425 L1590,990 L1417.5,990" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1590,1421 l0,8 M1586,1425 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 1590 1425)"/>
+<text class="gene_0" transform="rotate(90 1590,1425)" x="1600" y="1425">
+H.sapiens*LOST
+</text>
+<path d="M2355,1320 L2355,765 L2061.5625,765" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2352,1317 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 2355,1320)" x="2365" y="1320">
+100
+</text>
+<path d="M2370,1462.5 L2370,1320 L2355,1320" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2369.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 2365,1477.5)" x="2365" y="1477.5">
+X.laevis_slc39a7.L_solute_carrier_family_39_member_7_L_homeolog_i
+</text>
+<path d="M2355,1462.5 L2355,1320 L2355,1320" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2354.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 2350,1477.5)" x="2350" y="1477.5">
+X.laevis_slc39a7.S_zinc_transporter_SLC39A7_isoform_X1
+</text>
+<path d="M761.25,765 L761.25,660 L1426.4063,660" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M761.25,761 l0,8 M757.25,765 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 761.25 765)"/>
+<text class="gene_0" transform="rotate(90 761.25,765)" x="771.25" y="765">
+Actinopterygii*LOST
+</text>
+<path d="M345,660 L345,555 L870.7031,555" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="345" cy="660" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 345,660)" x="355" y="660">
+100
+</text>
+<path d="M427.5,1462.5 L427.5,660 L345,660" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M427,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 422.5,1477.5)" x="422.5" y="1477.5">
+S.canicula_slc39a7_zinc_transporter_Slc39a7_isoform_X1
+</text>
+<path d="M292.5,1462.5 L292.5,660 L345,660" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M292,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 287.5,1477.5)" x="287.5" y="1477.5">
+C.carcharias_LOC121291098_zinc_transporter_SLC39A7like_isoform_X2
+</text>
+<path d="M885.7031,570 L885.7031,540 L870.7031,540" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="885.7031" cy="570" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 885.7031,570)" x="895.7031" y="570">
+r105
+</text>
+<path d="M1411.4063,675 L1411.4063,570 L885.7031,570" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1411.4063" cy="675" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1411.4063,675)" x="1421.4063" y="675">
+r103
+</text>
+<path d="M776.25,780 L776.25,675 L1411.4063,675" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="776.25" cy="780" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 776.25,780)" x="786.25" y="780">
+100
+</text>
+<path d="M937.5,885 L937.5,780 L776.25,780" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="937.5" cy="885" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 937.5,885)" x="947.5" y="885">
+r99
+</text>
+<path d="M817.5,1320 L817.5,885 L937.5,885" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M814.5,1317 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 817.5,1320)" x="827.5" y="1320">
+99
+</text>
+<path d="M817.5,1462.5 L817.5,1320 L817.5,1320" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M817,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 812.5,1477.5)" x="812.5" y="1477.5">
+S.salar_ke4_zinc_transporter_SLC39A7_precursor
+</text>
+<path d="M832.5,1462.5 L832.5,1320 L817.5,1320" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M832,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 827.5,1477.5)" x="827.5" y="1477.5">
+S.salar_slc39a7_zinc_transporter_Slc39a7
+</text>
+<path d="M1027.5,1350 L1027.5,885 L937.5,885" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1027.5,1346 l0,8 M1023.5,1350 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 1027.5 1350)"/>
+<text class="gene_0" transform="rotate(90 1027.5,1350)" x="1037.5" y="1350">
+G.aculeatus*LOST
+</text>
+<path d="M607.5,870 L607.5,780 L776.25,780" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M604.5,867 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 607.5,870)" x="617.5" y="870">
+100
+</text>
+<path d="M607.5,885 L607.5,870 L607.5,870" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="607.5" cy="885" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 607.5,885)" x="617.5" y="885">
+80
+</text>
+<path d="M510,1462.5 L510,885 L607.5,885" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M509.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 505,1477.5)" x="505" y="1477.5">
+C.carpio_LOC109044923_zinc_transporter_Slc39a7like_isoform_X2
+</text>
+<path d="M727.5,1462.5 L727.5,885 L607.5,885" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M727,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 722.5,1477.5)" x="722.5" y="1477.5">
+D.rerio_slc39a7_zinc_transporter_Slc39a7_precursor
+</text>
+<path d="M622.5,900 L622.5,870 L607.5,870" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="622.5" cy="900" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 622.5,900)" x="632.5" y="900">
+r101
+</text>
+<path d="M525,1462.5 L525,900 L622.5,900" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M524.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 520,1477.5)" x="520" y="1477.5">
+C.carpio_LOC109056796_zinc_transporter_Slc39a7
+</text>
+<path d="M712.5,1357.5 L712.5,900 L622.5,900" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M712.5,1353.5 l0,8 M708.5,1357.5 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 712.5 1357.5)"/>
+<text class="gene_0" transform="rotate(90 712.5,1357.5)" x="722.5" y="1357.5">
+D.rerio*LOST
+</text>
+<path d="M2046.5625,780 L2046.5625,675 L1411.4063,675" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2046.5625,776 l0,8 M2042.5625,780 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 2046.5625 780)"/>
+<text class="gene_0" transform="rotate(90 2046.5625,780)" x="2056.5625" y="780">
+Tetrapoda*LOST
+</text>
+<path d="M360,675 L360,570 L885.7031,570" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M360,671 l0,8 M356,675 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 360 675)"/>
+<text class="gene_0" transform="rotate(90 360,675)" x="370" y="675">
+Chondrichthyes*LOST
+</text>
+<path d="M2490,1462.5 L2490,450 L1676.6016,450" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2489.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 2485,1477.5)" x="2485" y="1477.5">
+P.marinus_SLC39A7_NA
+</text>
+<path d="M2595,1350 L2595,360 L2128.3008,360" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2595,1346 l0,8 M2591,1350 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 2595 1350)"/>
+<text class="gene_0" transform="rotate(90 2595,1350)" x="2605" y="1350">
+O.dioica*LOST
+</text>
+<path d="M2700,1462.5 L2700,240 L2436.6504,240" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2699.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 2695,1477.5)" x="2695" y="1477.5">
+B.belcheri_LOC109482456_PREDICTED_protein_catecholamines_uplike
+</text>
+<path d="M67.5,240 L67.5,105 L1229.5752,105" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="67.5" cy="240" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 67.5,240)" x="77.5" y="240">
+r109
+</text>
+<path d="M202.5,1462.5 L202.5,240 L67.5,240" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M202,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 197.5,1477.5)" x="197.5" y="1477.5">
+S.kowalevskii_LOC100372977_PREDICTED_LOW_QUALITY_PROTEIN_zinc_tra
+</text>
+<path d="M-22.5,1335 L-22.5,240 L67.5,240" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M-22.5,1331 l0,8 M-26.5,1335 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 -22.5 1335)"/>
+<text class="gene_0" transform="rotate(90 -22.5,1335)" x="-12.5" y="1335">
+S.purpuratus*LOST
+</text>
+<path d="M1244.5752,120 L1244.5752,90 L1229.5752,90" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1244.5752" cy="120" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1244.5752,120)" x="1254.5752" y="120">
+r113
+</text>
+<path d="M82.5,255 L82.5,120 L1244.5752,120" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="82.5" cy="255" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 82.5,255)" x="92.5" y="255">
+r111
+</text>
+<path d="M-7.5,1462.5 L-7.5,255 L82.5,255" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M-8,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 -12.5,1477.5)" x="-12.5" y="1477.5">
+S.purpuratus_LOC582713_protein_catecholamines_up
+</text>
+<path d="M187.5,1350 L187.5,255 L82.5,255" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M187.5,1346 l0,8 M183.5,1350 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 187.5 1350)"/>
+<text class="gene_0" transform="rotate(90 187.5,1350)" x="197.5" y="1350">
+S.kowalevskii*LOST
+</text>
+<path d="M2421.6504,255 L2421.6504,120 L1244.5752,120" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2421.6504,251 l0,8 M2417.6504,255 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 2421.6504 255)"/>
+<text class="gene_0" transform="rotate(90 2421.6504,255)" x="2431.6504" y="255">
+Chordata*LOST
+</text>
+<path d="M1259.5752,135 L1259.5752,75 L1229.5752,75" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1256.5752,132 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1259.5752,135)" x="1269.5752" y="135">
+100
+</text>
+<path d="M1259.5752,150 L1259.5752,135 L1259.5752,135" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1259.5752" cy="150" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1259.5752,150)" x="1269.5752" y="150">
+88
+</text>
+<path d="M2406.6504,270 L2406.6504,150 L1259.5752,150" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="2406.6504" cy="270" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 2406.6504,270)" x="2416.6504" y="270">
+96
+</text>
+<path d="M2143.3008,375 L2143.3008,270 L2406.6504,270" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="2143.3008" cy="375" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 2143.3008,375)" x="2153.3008" y="375">
+r129
+</text>
+<path d="M1691.6016,465 L1691.6016,375 L2143.3008,375" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1691.6016" cy="465" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1691.6016,465)" x="1701.6016" y="465">
+99
+</text>
+<path d="M900.7031,585 L900.7031,465 L1691.6016,465" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="900.7031" cy="585" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 900.7031,585)" x="910.7031" y="585">
+98
+</text>
+<path d="M1396.4063,690 L1396.4063,585 L900.7031,585" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1396.4063" cy="690" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1396.4063,690)" x="1406.4063" y="690">
+84
+</text>
+<path d="M2031.5625,795 L2031.5625,690 L1396.4063,690" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="2031.5625" cy="795" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 2031.5625,795)" x="2041.5625" y="795">
+97
+</text>
+<path d="M1753.125,885 L1753.125,795 L2031.5625,795" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1753.125" cy="885" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1753.125,885)" x="1763.125" y="885">
+97
+</text>
+<path d="M1432.5,1005 L1432.5,885 L1753.125,885" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1429.5,1002 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1432.5,1005)" x="1442.5" y="1005">
+100
+</text>
+<path d="M1432.5,1020 L1432.5,1005 L1432.5,1005" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1432.5" cy="1020" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1432.5,1020)" x="1442.5" y="1020">
+67
+</text>
+<path d="M1237.5,1140 L1237.5,1020 L1432.5,1020" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1237.5" cy="1140" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1237.5,1140)" x="1247.5" y="1140">
+r115
+</text>
+<path d="M1147.5,1462.5 L1147.5,1140 L1237.5,1140" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1147,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1142.5,1477.5)" x="1142.5" y="1477.5">
+F.catus_SLC39A13_zinc_transporter_ZIP13_isoform_X1
+</text>
+<path d="M1312.5,1365 L1312.5,1140 L1237.5,1140" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1312.5,1361 l0,8 M1308.5,1365 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 1312.5 1365)"/>
+<text class="gene_0" transform="rotate(90 1312.5,1365)" x="1322.5" y="1365">
+E.caballus*LOST
+</text>
+<path d="M1575,1462.5 L1575,1020 L1432.5,1020" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1574.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1570,1477.5)" x="1570" y="1477.5">
+H.sapiens_SLC39A13_zinc_transporter_ZIP13_isoform_X1
+</text>
+<path d="M1447.5,1035 L1447.5,1005 L1432.5,1005" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1447.5" cy="1035" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1447.5,1035)" x="1457.5" y="1035">
+r119
+</text>
+<path d="M1252.5,1155 L1252.5,1035 L1447.5,1035" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1252.5" cy="1155" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1252.5,1155)" x="1262.5" y="1155">
+r117
+</text>
+<path d="M1297.5,1462.5 L1297.5,1155 L1252.5,1155" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1297,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1292.5,1477.5)" x="1292.5" y="1477.5">
+E.caballus_SLC39A13_zinc_transporter_ZIP13_isoform_X1
+</text>
+<path d="M1162.5,1380 L1162.5,1155 L1252.5,1155" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1162.5,1376 l0,8 M1158.5,1380 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 1162.5 1380)"/>
+<text class="gene_0" transform="rotate(90 1162.5,1380)" x="1172.5" y="1380">
+F.catus*LOST
+</text>
+<path d="M1560,1455 L1560,1035 L1447.5,1035" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1560,1451 l0,8 M1556,1455 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 1560 1455)"/>
+<text class="gene_0" transform="rotate(90 1560,1455)" x="1570" y="1455">
+H.sapiens*LOST
+</text>
+<path d="M2051.25,990 L2051.25,885 L1753.125,885" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2048.25,987 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 2051.25,990)" x="2061.25" y="990">
+84
+</text>
+<path d="M2066.25,1005 L2066.25,990 L2051.25,990" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="2066.25" cy="1005" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 2066.25,1005)" x="2076.25" y="1005">
+44
+</text>
+<path d="M1957.5,1110 L1957.5,1005 L2066.25,1005" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1957.5" cy="1110" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1957.5,1110)" x="1967.5" y="1110">
+58
+</text>
+<path d="M1867.5,1215 L1867.5,1110 L1957.5,1110" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1867.5" cy="1215" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1867.5,1215)" x="1877.5" y="1215">
+r121
+</text>
+<path d="M1935,1462.5 L1935,1215 L1867.5,1215" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1934.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1930,1477.5)" x="1930" y="1477.5">
+G.gallus_SLC39A13_zinc_transporter_ZIP13_isoform_X1
+</text>
+<path d="M1800,1350 L1800,1215 L1867.5,1215" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1800,1346 l0,8 M1796,1350 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 1800 1350)"/>
+<text class="gene_0" transform="rotate(90 1800,1350)" x="1810" y="1350">
+G.gangeticus*LOST
+</text>
+<path d="M2047.5,1462.5 L2047.5,1110 L1957.5,1110" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2047,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 2042.5,1477.5)" x="2042.5" y="1477.5">
+C.mydas_SLC39A13_zinc_transporter_ZIP13
+</text>
+<path d="M2175,1462.5 L2175,1005 L2066.25,1005" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2174.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 2170,1477.5)" x="2170" y="1477.5">
+S.townsendi_SLC39A13_zinc_transporter_ZIP13
+</text>
+<path d="M2051.25,1020 L2051.25,990 L2051.25,990" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="2051.25" cy="1020" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 2051.25,1020)" x="2061.25" y="1020">
+r127
+</text>
+<path d="M1972.5,1125 L1972.5,1020 L2051.25,1020" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1972.5" cy="1125" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1972.5,1125)" x="1982.5" y="1125">
+r125
+</text>
+<path d="M1882.5,1230 L1882.5,1125 L1972.5,1125" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1882.5" cy="1230" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1882.5,1230)" x="1892.5" y="1230">
+r123
+</text>
+<path d="M1815,1462.5 L1815,1230 L1882.5,1230" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1814.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1810,1477.5)" x="1810" y="1477.5">
+G.gangeticus_SLC39A13_PREDICTED_zinc_transporter_ZIP13
+</text>
+<path d="M1920,1365 L1920,1230 L1882.5,1230" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1920,1361 l0,8 M1916,1365 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 1920 1365)"/>
+<text class="gene_0" transform="rotate(90 1920,1365)" x="1930" y="1365">
+G.gallus*LOST
+</text>
+<path d="M2032.5,1372.5 L2032.5,1125 L1972.5,1125" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2032.5,1368.5 l0,8 M2028.5,1372.5 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 2032.5 1372.5)"/>
+<text class="gene_0" transform="rotate(90 2032.5,1372.5)" x="2042.5" y="1372.5">
+C.mydas*LOST
+</text>
+<path d="M2160,1372.5 L2160,1020 L2051.25,1020" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2160,1368.5 l0,8 M2156,1372.5 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 2160 1372.5)"/>
+<text class="gene_0" transform="rotate(90 2160,1372.5)" x="2170" y="1372.5">
+S.townsendi*LOST
+</text>
+<path d="M2325,1365 L2325,795 L2031.5625,795" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2322,1362 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 2325,1365)" x="2335" y="1365">
+100
+</text>
+<path d="M2340,1462.5 L2340,1365 L2325,1365" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2339.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 2335,1477.5)" x="2335" y="1477.5">
+X.laevis_slc39a13.L_zinc_transporter_ZIP13_isoform_X1
+</text>
+<path d="M2325,1462.5 L2325,1365 L2325,1365" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2324.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 2320,1477.5)" x="2320" y="1477.5">
+X.laevis_slc39a13.S_zinc_transporter_ZIP13
+</text>
+<path d="M791.25,795 L791.25,690 L1396.4063,690" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="791.25" cy="795" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 791.25,795)" x="801.25" y="795">
+100
+</text>
+<path d="M922.5,900 L922.5,795 L791.25,795" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="922.5" cy="900" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 922.5,900)" x="932.5" y="900">
+99
+</text>
+<path d="M847.5,1365 L847.5,900 L922.5,900" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M844.5,1362 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 847.5,1365)" x="857.5" y="1365">
+100
+</text>
+<path d="M847.5,1462.5 L847.5,1365 L847.5,1365" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M847,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 842.5,1477.5)" x="842.5" y="1477.5">
+S.salar_LOC106563524_zinc_transporter_ZIP13_isoform_X2
+</text>
+<path d="M862.5,1462.5 L862.5,1365 L847.5,1365" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M862,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 857.5,1477.5)" x="857.5" y="1477.5">
+S.salar_slc39a13_zinc_transporter_ZIP13_precursor
+</text>
+<path d="M1012.5,1462.5 L1012.5,900 L922.5,900" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M1012,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 1007.5,1477.5)" x="1007.5" y="1477.5">
+G.aculeatus_slc39a13_zinc_transporter_ZIP13_isoform_X2
+</text>
+<path d="M637.5,915 L637.5,795 L791.25,795" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="637.5" cy="915" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 637.5,915)" x="647.5" y="915">
+100
+</text>
+<path d="M540,1357.5 L540,915 L637.5,915" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M537,1354.5 l0,6 l6,0 l0,-6 z" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 540,1357.5)" x="550" y="1357.5">
+89
+</text>
+<path d="M540,1462.5 L540,1357.5 L540,1357.5" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M539.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 535,1477.5)" x="535" y="1477.5">
+C.carpio_LOC109094209_zinc_transporter_ZIP13_isoform_X1
+</text>
+<path d="M555,1462.5 L555,1357.5 L540,1357.5" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M554.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 550,1477.5)" x="550" y="1477.5">
+C.carpio_LOC109093802_zinc_transporter_ZIP13like_isoform_X1
+</text>
+<path d="M697.5,1462.5 L697.5,915 L637.5,915" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M697,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 692.5,1477.5)" x="692.5" y="1477.5">
+D.rerio_slc39a13_zinc_transporter_ZIP13
+</text>
+<path d="M375,690 L375,585 L900.7031,585" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="375" cy="690" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 375,690)" x="385" y="690">
+100
+</text>
+<path d="M307.5,1462.5 L307.5,690 L375,690" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M307,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 302.5,1477.5)" x="302.5" y="1477.5">
+C.carcharias_slc39a13_zinc_transporter_ZIP13
+</text>
+<path d="M412.5,1462.5 L412.5,690 L375,690" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M412,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 407.5,1477.5)" x="407.5" y="1477.5">
+S.canicula_slc39a13_zinc_transporter_ZIP13
+</text>
+<path d="M2475,1462.5 L2475,465 L1691.6016,465" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2474.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 2470,1477.5)" x="2470" y="1477.5">
+P.marinus_SLC39A13_NA
+</text>
+<path d="M2580,1365 L2580,375 L2143.3008,375" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2580,1361 l0,8 M2576,1365 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 2580 1365)"/>
+<text class="gene_0" transform="rotate(90 2580,1365)" x="2590" y="1365">
+O.dioica*LOST
+</text>
+<path d="M2685,1462.5 L2685,270 L2406.6504,270" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2684.5,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 2680,1477.5)" x="2680" y="1477.5">
+B.belcheri_LOC109463185_PREDICTED_LOW_QUALITY_PROTEIN_zinc_transp
+</text>
+<path d="M97.5,270 L97.5,150 L1259.5752,150" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="97.5" cy="270" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 97.5,270)" x="107.5" y="270">
+r131
+</text>
+<path d="M172.5,1462.5 L172.5,270 L97.5,270" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M172,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 167.5,1477.5)" x="167.5" y="1477.5">
+S.kowalevskii_LOC102808884_PREDICTED_zinc_transporter_ZIP13like
+</text>
+<path d="M7.5,1365 L7.5,270 L97.5,270" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M7.5,1361 l0,8 M3.5,1365 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 7.5 1365)"/>
+<text class="gene_0" transform="rotate(90 7.5,1365)" x="17.5" y="1365">
+S.purpuratus*LOST
+</text>
+<path d="M1274.5752,165 L1274.5752,135 L1259.5752,135" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="1274.5752" cy="165" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 1274.5752,165)" x="1284.5752" y="165">
+r135
+</text>
+<path d="M112.5,285 L112.5,165 L1274.5752,165" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<circle cx="112.5" cy="285" fill="rgb(67, 32, 181)" opacity="0.9" r="3" stroke="rgb(67, 32, 181)" stroke-width="1"/>
+<text class="gene_0" transform="rotate(90 112.5,285)" x="122.5" y="285">
+r133
+</text>
+<path d="M22.5,1462.5 L22.5,285 L112.5,285" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M22,1462 l0,1 l1,0 l0,-1 z" fill="red" opacity="0.9" stroke="red" stroke-width="3"/>
+<text class="gene_0" transform="rotate(90 17.5,1477.5)" x="17.5" y="1477.5">
+S.purpuratus_LOC584043_zinc_transporter_ZIP13_isoform_X1
+</text>
+<path d="M157.5,1380 L157.5,285 L112.5,285" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M157.5,1376 l0,8 M153.5,1380 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 157.5 1380)"/>
+<text class="gene_0" transform="rotate(90 157.5,1380)" x="167.5" y="1380">
+S.kowalevskii*LOST
+</text>
+<path d="M2391.6504,285 L2391.6504,165 L1274.5752,165" fill="none" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="3"/>
+<path d="M2391.6504,281 l0,8 M2387.6504,285 l8,0" fill="rgb(67, 32, 181)" opacity="0.9" stroke="rgb(67, 32, 181)" stroke-width="2" transform="rotate(45 2391.6504 285)"/>
+<text class="gene_0" transform="rotate(90 2391.6504,285)" x="2401.6504" y="285">
+Chordata*LOST
+</text>
+</g>
+</svg>
